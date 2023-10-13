@@ -12,7 +12,7 @@ namespace Tyuiu.ShadrinEA.Sprint1.Task7.V11.Lib
     {
         public double Calculate(double x, double y)
         {
-            return Math.Round(((Math.Pow(Math.Log(Math.Sin(x)),x) /  Math.Log(1+x*x))  +  (y-Math.Sqrt(Math.Abs(x)))),3);
+            return Math.Round(((Math.Pow(Math.Log(Math.Sin(x)),x) /  Math.Log(1+x*x))  +  (y-Math.Sqrt(Math.Abs(x)))),3); //ffff
         }
     }
 }
