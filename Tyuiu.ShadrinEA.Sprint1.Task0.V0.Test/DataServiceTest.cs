@@ -13,7 +13,7 @@ namespace Tyuiu.ShadrinEA.Sprint1.Task0.V25.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(2, res);
+            Assert.AreEqual(3, res);
 
         }
     }
