@@ -41,7 +41,7 @@ namespace Tyuiu.ShadrinEA.Sprint1.Task5.V3
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"третья цифра с конца= { ds.Calculate (k)}");
+            Console.WriteLine($"третья цифра с конца = { ds.Calculate(k)}");
             Console.ReadKey();
         }
     }
