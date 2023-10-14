@@ -43,7 +43,7 @@ namespace Tyuiu.ShadrinEA.Sprint1.Task7.V11
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"{ ds.Calculate(x,y)}");//
+            Console.WriteLine($"{ ds.Calculate(x,y)}");
             Console.ReadKey();
 
         }
